@@ -1,37 +1,54 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-bbfs]
 path = "../icentral-bbfs"
+version = "0.1.0"
 [dependencies.icentral-component]
 path = "../icentral-component"
+version = "0.1.0"
 [dependencies.icentral-distances]
 path = "../icentral-distances"
+version = "0.1.0"
 [dependencies.icentral-errors]
 path = "../icentral-errors"
+version = "0.1.0"
 [dependencies.icentral-graph-interface]
 path = "../icentral-graph-interface"
+version = "0.1.0"
 [dependencies.icentral-neighbors]
 path = "../icentral-neighbors"
+version = "0.1.0"
 [dependencies.icentral-node-queue]
 path = "../icentral-node-queue"
+version = "0.1.0"
 [dependencies.icentral-node-stack]
 path = "../icentral-node-stack"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-pair-dependencies]
 path = "../icentral-pair-dependencies"
+version = "0.1.0"
 [dependencies.icentral-parents-map]
 path = "../icentral-parents-map"
+version = "0.1.0"
 [dependencies.icentral-path-counts]
 path = "../icentral-path-counts"
+version = "0.1.0"
 [dependencies.icentral-rbfs]
 path = "../icentral-rbfs"
+version = "0.1.0"
 [dependencies.icentral-scores]
 path = "../icentral-scores"
+version = "0.1.0"
 [dependencies.icentral-timer]
 path = "../icentral-timer"
+version = "0.1.0"
 [dependencies.icentral-workspace]
 path = "../icentral-workspace"
+version = "0.1.0"
 [dependencies]
 named-item = "0.1.0"
 renew-traits = "0.1.0"

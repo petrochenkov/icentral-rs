@@ -1,19 +1,27 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-component]
 path = "../icentral-component"
+version = "0.1.0"
 [dependencies.icentral-edge]
 path = "../icentral-edge"
+version = "0.1.0"
 [dependencies.icentral-errors]
 path = "../icentral-errors"
+version = "0.1.0"
 [dependencies.icentral-node-queue]
 path = "../icentral-node-queue"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-sigmas]
 path = "../icentral-sigmas"
+version = "0.1.0"
 [dependencies.icentral-workspace]
 path = "../icentral-workspace"
+version = "0.1.0"
 [dependencies]
 renew-traits = "0.1.0"
 [package]

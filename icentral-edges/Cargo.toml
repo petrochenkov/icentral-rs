@@ -1,13 +1,18 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-edge]
 path = "../icentral-edge"
+version = "0.1.0"
 [dependencies.icentral-errors]
 path = "../icentral-errors"
+version = "0.1.0"
 [dependencies.icentral-label-map]
 path = "../icentral-label-map"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies]
 named-item = "0.1.0"
 renew-traits = "0.1.0"

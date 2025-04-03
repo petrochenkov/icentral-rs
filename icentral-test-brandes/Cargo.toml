@@ -1,19 +1,27 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-brandes]
 path = "../icentral-brandes"
+version = "0.1.0"
 [dependencies.icentral-errors]
 path = "../icentral-errors"
+version = "0.1.0"
 [dependencies.icentral-graph]
 path = "../icentral-graph"
+version = "0.1.0"
 [dependencies.icentral-graph-interface]
 path = "../icentral-graph-interface"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-scores]
 path = "../icentral-scores"
+version = "0.1.0"
 [dependencies.icentral-timer]
 path = "../icentral-timer"
+version = "0.1.0"
 [package]
 edition = "2021"
 name = "icentral-test-brandes"

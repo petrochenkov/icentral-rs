@@ -1,11 +1,15 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-edge]
 path = "../icentral-edge"
+version = "0.1.0"
 [dependencies.icentral-neighbors]
 path = "../icentral-neighbors"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies]
 renew-traits = "0.1.0"
 [package]

@@ -1,19 +1,27 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-cycle]
 path = "../icentral-cycle"
+version = "0.1.0"
 [dependencies.icentral-edge]
 path = "../icentral-edge"
+version = "0.1.0"
 [dependencies.icentral-edges]
 path = "../icentral-edges"
+version = "0.1.0"
 [dependencies.icentral-errors]
 path = "../icentral-errors"
+version = "0.1.0"
 [dependencies.icentral-graph-interface]
 path = "../icentral-graph-interface"
+version = "0.1.0"
 [dependencies.icentral-muc]
 path = "../icentral-muc"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [package]
 edition = "2021"
 name = "icentral-qube"

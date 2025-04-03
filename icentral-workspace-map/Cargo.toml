@@ -1,19 +1,27 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-bbfs]
 path = "../icentral-bbfs"
+version = "0.1.0"
 [dependencies.icentral-component]
 path = "../icentral-component"
+version = "0.1.0"
 [dependencies.icentral-mindexed-map]
 path = "../icentral-mindexed-map"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-rbfs]
 path = "../icentral-rbfs"
+version = "0.1.0"
 [dependencies.icentral-scores]
 path = "../icentral-scores"
+version = "0.1.0"
 [dependencies.icentral-workspace]
 path = "../icentral-workspace"
+version = "0.1.0"
 [package]
 edition = "2021"
 name = "icentral-workspace-map"

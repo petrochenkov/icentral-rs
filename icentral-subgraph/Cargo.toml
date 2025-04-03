@@ -1,43 +1,63 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-conn-vertex-map]
 path = "../icentral-conn-vertex-map"
+version = "0.1.0"
 [dependencies.icentral-distances]
 path = "../icentral-distances"
+version = "0.1.0"
 [dependencies.icentral-edge]
 path = "../icentral-edge"
+version = "0.1.0"
 [dependencies.icentral-edges]
 path = "../icentral-edges"
+version = "0.1.0"
 [dependencies.icentral-errors]
 path = "../icentral-errors"
+version = "0.1.0"
 [dependencies.icentral-graph-interface]
 path = "../icentral-graph-interface"
+version = "0.1.0"
 [dependencies.icentral-label-map]
 path = "../icentral-label-map"
+version = "0.1.0"
 [dependencies.icentral-mindexed-map]
 path = "../icentral-mindexed-map"
+version = "0.1.0"
 [dependencies.icentral-neighbors]
 path = "../icentral-neighbors"
+version = "0.1.0"
 [dependencies.icentral-node-queue]
 path = "../icentral-node-queue"
+version = "0.1.0"
 [dependencies.icentral-node-stack]
 path = "../icentral-node-stack"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-pair-dependencies]
 path = "../icentral-pair-dependencies"
+version = "0.1.0"
 [dependencies.icentral-parents-map]
 path = "../icentral-parents-map"
+version = "0.1.0"
 [dependencies.icentral-path-counts]
 path = "../icentral-path-counts"
+version = "0.1.0"
 [dependencies.icentral-scores]
 path = "../icentral-scores"
+version = "0.1.0"
 [dependencies.icentral-sigmas]
 path = "../icentral-sigmas"
+version = "0.1.0"
 [dependencies.icentral-subgraph-map]
 path = "../icentral-subgraph-map"
+version = "0.1.0"
 [dependencies.icentral-visit-markers]
 path = "../icentral-visit-markers"
+version = "0.1.0"
 [dependencies]
 named-item = "0.1.0"
 renew-traits = "0.1.0"

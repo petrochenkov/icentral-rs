@@ -1,5 +1,6 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [package]
 edition = "2021"
 name = "icentral-test-fast-brandes"

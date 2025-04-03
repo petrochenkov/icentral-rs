@@ -1,13 +1,18 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-color-map]
 path = "../icentral-color-map"
+version = "0.1.0"
 [dependencies.icentral-distances]
 path = "../icentral-distances"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-predecessor-map]
 path = "../icentral-predecessor-map"
+version = "0.1.0"
 [package]
 edition = "2021"
 name = "icentral-edge"

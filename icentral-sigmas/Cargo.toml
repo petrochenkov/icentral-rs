@@ -1,9 +1,12 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-mindexed-map]
 path = "../icentral-mindexed-map"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [package]
 edition = "2021"
 name = "icentral-sigmas"

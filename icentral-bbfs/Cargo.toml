@@ -1,25 +1,36 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-component]
 path = "../icentral-component"
+version = "0.1.0"
 [dependencies.icentral-edge]
 path = "../icentral-edge"
+version = "0.1.0"
 [dependencies.icentral-errors]
 path = "../icentral-errors"
+version = "0.1.0"
 [dependencies.icentral-mindexed-map]
 path = "../icentral-mindexed-map"
+version = "0.1.0"
 [dependencies.icentral-node-queue]
 path = "../icentral-node-queue"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-parents-map]
 path = "../icentral-parents-map"
+version = "0.1.0"
 [dependencies.icentral-scores]
 path = "../icentral-scores"
+version = "0.1.0"
 [dependencies.icentral-sigmas]
 path = "../icentral-sigmas"
+version = "0.1.0"
 [dependencies.icentral-workspace]
 path = "../icentral-workspace"
+version = "0.1.0"
 [dependencies]
 named-item = "0.1.0"
 renew-traits = "0.1.0"

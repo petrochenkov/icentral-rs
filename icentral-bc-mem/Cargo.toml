@@ -1,15 +1,21 @@
 [dependencies.icentral-deps]
 path = "../icentral-deps"
+version = "0.1.0"
 [dependencies.icentral-graph-interface]
 path = "../icentral-graph-interface"
+version = "0.1.0"
 [dependencies.icentral-mindexed-map]
 path = "../icentral-mindexed-map"
+version = "0.1.0"
 [dependencies.icentral-nodeid]
 path = "../icentral-nodeid"
+version = "0.1.0"
 [dependencies.icentral-parents-map]
 path = "../icentral-parents-map"
+version = "0.1.0"
 [dependencies.icentral-sigmas]
 path = "../icentral-sigmas"
+version = "0.1.0"
 [dependencies]
 named-item = "0.1.0"
 renew-traits = "0.1.0"
