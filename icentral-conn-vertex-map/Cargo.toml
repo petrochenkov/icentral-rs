@@ -11,3 +11,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-conn-vertex-map"
 version = "0.1.0"
+description = "The icentral-conn-vertex-map crate provides a robust data structure for managing node-to-node connectivity in computational graphs, with both indexed and mapped modes."
+keywords = ["connectivity", "nodemapping", "graph", "datastructures", "indexing"]
+categories = ["data-structures", "memory-management", "science"]

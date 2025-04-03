@@ -11,3 +11,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-visit-markers"
 version = "0.1.0"
+description = "A Rust crate for managing and tracking node visitations in graph traversal algorithms, supporting both indexed and mapped storage structures."
+keywords = ["graph", "traversal", "node", "visit", "tracking"]
+categories = ["data-structures", "algorithms", "development-tools", "mathematics", "science"]

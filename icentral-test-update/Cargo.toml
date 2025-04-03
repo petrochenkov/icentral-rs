@@ -5,3 +5,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-test-update"
 version = "0.1.0"
+description = "A Rust crate that provides advanced tools and frameworks for integration testing, utilizing the Rust 2021 edition features."
+keywords = ["integration", "testing", "rust", "workflow", "asynchronous"]
+categories = ["development-tools", "asynchronous", "rust-patterns"]

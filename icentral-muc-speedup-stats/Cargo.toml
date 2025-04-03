@@ -5,3 +5,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-muc-speedup-stats"
 version = "0.1.0"
+description = "Provides tools for analyzing speedup in Minimum Uncut (MUC) problems on graphs, capturing metrics about nodes, edges, and ideal speedup potential."
+keywords = ["muc", "graphtheory", "speedup", "performance", "metrics"]
+categories = ["data-structures", "mathematics", "simulation", "science"]

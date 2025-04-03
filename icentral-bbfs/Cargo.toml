@@ -38,3 +38,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-bbfs"
 version = "0.1.0"
+description = "A Rust crate providing Bidirectional Breadth-First Search (BBFS) for efficient computation of betweenness centrality in large graph structures."
+keywords = ["bbfs", "betweennesscentralit", "graphalgorithms", "networkanalysis", "breadthfirstsearch"]
+categories = ["algorithms", "data-structures", "network-programming", "science", "mathematics"]

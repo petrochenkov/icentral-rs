@@ -14,3 +14,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-articulation-point-map"
 version = "0.1.0"
+description = "Efficient management and analysis of articulation points in graph data structures, aiding graph connectivity analysis."
+keywords = ["graph", "articulationpoints", "connectivity", "algorithms", "datastructures"]
+categories = ["data-structures", "algorithms", "network-programming", "science"]

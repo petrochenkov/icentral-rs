@@ -65,3 +65,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-subgraph"
 version = "0.1.0"
+description = "Efficient management and computation of subgraphs with a focus on betweenness centrality metrics in Rust."
+keywords = ["subgraph", "betweennesscentralit", "graphalgorithms", "sigmacomputation", "nodedependency"]
+categories = ["algorithms", "data-structures", "science", "simulation"]

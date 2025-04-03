@@ -20,3 +20,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-edges"
 version = "0.1.0"
+description = "A Rust crate offering comprehensive edge-centric interfaces and operations for graph data structures. Features efficient edge insertion, removal, and querying with customization support."
+keywords = ["graph", "edges", "datastructures", "algorithms", "rust"]
+categories = ["data-structures", "algorithms", "development-tools", "network-programming"]

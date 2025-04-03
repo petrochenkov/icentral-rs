@@ -98,3 +98,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-graph"
 version = "0.1.0"
+description = "A Rust library for advanced graph manipulation, focusing on minimum union cycles, betweenness centrality, and biconnected components."
+keywords = ["graph", "algorithms", "cycles", "centrality", "biconnected"]
+categories = ["algorithms", "data-structures", "science", "mathematics", "development-tools"]

@@ -17,3 +17,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-count-bcc"
 version = "0.1.0"
+description = "A Rust crate for counting biconnected components in graphs with a specified minimum number of edges, useful for network analysis and graph algorithms."
+keywords = ["biconnectedcomponent", "graphs", "networkanalysis", "edgecounting", "graphalgorithms"]
+categories = ["algorithms", "data-structures", "science", "simulation", "mathematics"]

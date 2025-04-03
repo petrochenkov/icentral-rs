@@ -41,3 +41,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-test-fuad"
 version = "0.1.0"
+description = "A Rust crate for computing approximate Betweenness Centrality in dynamic graphs using edge-insertions and Biconnected Components."
+keywords = ["betweennesscentralit", "graphalgorithms", "dynamicgraphs", "biconnectedcomponent", "networkanalysis"]
+categories = ["algorithms", "network-programming", "science", "simulation", "mathematics"]

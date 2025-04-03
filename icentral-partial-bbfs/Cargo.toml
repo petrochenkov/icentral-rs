@@ -28,3 +28,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-partial-bbfs"
 version = "0.1.0"
+description = "Efficiently update betweenness centrality through Partial Brandes' Breadth-First Search in dynamically changing graphs."
+keywords = ["betweennesscentralit", "graphalgorithms", "dynamicgraphupdates", "rust", "icentral"]
+categories = ["algorithms", "data-structures", "network-programming", "science"]

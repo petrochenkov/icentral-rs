@@ -16,3 +16,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-parents-map"
 version = "0.1.0"
+description = "A Rust crate to manage parent-node relationships with features to add, set, and query parents, suitable for graph-based frameworks."
+keywords = ["parents", "nodes", "graph", "relationships", "datastructure"]
+categories = ["algorithms", "data-structures", "mathematics", "development-tools"]

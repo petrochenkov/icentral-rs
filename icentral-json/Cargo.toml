@@ -12,3 +12,6 @@ version = "1.0.128"
 edition = "2021"
 name = "icentral-json"
 version = "0.1.0"
+description = "A Rust crate facilitating the creation and serialization of JSON structures with two-level named member hierarchies using macros."
+keywords = ["rust", "json", "serialization", "macros", "nestedstructures"]
+categories = ["data-structures", "parsing", "network-programming"]

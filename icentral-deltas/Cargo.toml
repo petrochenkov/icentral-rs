@@ -11,3 +11,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-deltas"
 version = "0.1.0"
+description = "A Rust crate for managing delta changes in datasets using delta mapping, providing efficient and dynamic operations for data updates."
+keywords = ["delta", "datastructures", "updates", "efficient", "rust"]
+categories = ["data-structures", "mathematics", "science"]

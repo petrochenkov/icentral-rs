@@ -16,3 +16,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-label-map"
 version = "0.1.0"
+description = "Efficiently manage label mappings within directed graphs, supporting complex node and edge transformations."
+keywords = ["labelmap", "graphtheory", "nodemapping", "datastructures", "directedgraphs"]
+categories = ["data-structures", "algorithms", "science", "visualization"]

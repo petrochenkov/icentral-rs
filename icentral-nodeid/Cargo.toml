@@ -5,3 +5,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-nodeid"
 version = "0.1.0"
+description = "A Rust library for management of node identifiers in distributed systems, providing interfaces for node ID range handling, mapping, and iteration."
+keywords = ["node", "identifier", "range", "distributed", "systems"]
+categories = ["network-programming", "data-structures"]

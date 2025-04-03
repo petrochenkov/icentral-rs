@@ -8,3 +8,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-errors"
 version = "0.1.0"
+description = "Provides error handling utilities for betweenness centrality computations, including custom error types and conversion implementations for synchronization errors."
+keywords = ["errorhandling", "betweennesscentralit", "graphtheory", "poisonerror", "synchronization"]
+categories = ["algorithms", "concurrency", "data-structures", "science", "mathematics"]

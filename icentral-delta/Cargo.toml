@@ -59,3 +59,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-delta"
 version = "0.1.0"
+description = "Efficient computation and maintenance of biconnected components in dynamic graph structures using delta-based methods."
+keywords = ["biconnected", "betweenness", "centrality", "delta", "graph"]
+categories = ["algorithms", "network-programming", "simulation", "science", "data-structures"]

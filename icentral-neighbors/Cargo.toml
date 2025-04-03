@@ -19,3 +19,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-neighbors"
 version = "0.1.0"
+description = "A comprehensive crate for node and edge operations within graph structures, offering efficient manipulation and management capabilities."
+keywords = ["graph", "node", "edge", "network", "neighbors"]
+categories = ["algorithms", "data-structures", "network-programming", "science", "simulation"]

@@ -5,3 +5,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-timer"
 version = "0.1.0"
+description = "A Rust crate providing a concise, mutable timer for measuring time intervals with high precision, leveraging RefCell and Instant for seamless concurrency."
+keywords = ["rust", "timer", "performance", "concurrency", "measurement"]
+categories = ["date-and-time", "development-tools", "algorithms", "concurrency"]

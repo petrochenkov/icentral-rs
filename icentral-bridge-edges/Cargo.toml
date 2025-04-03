@@ -17,3 +17,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-bridge-edges"
 version = "0.1.0"
+description = "A Rust crate for extracting bridge edges from graph structures using biconnected component analysis."
+keywords = ["bridgeedges", "graphtheory", "biconnectedcomponent", "networkanalysis", "rust"]
+categories = ["algorithms", "data-structures", "science", "network-programming", "development-tools"]

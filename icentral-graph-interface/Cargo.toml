@@ -35,3 +35,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-graph-interface"
 version = "0.1.0"
+description = "A Rust crate providing traits for graph manipulation, focusing on minimum union cycles, betweenness centrality, and efficient shortest path calculations."
+keywords = ["graph", "betweennesscentralit", "minimumunioncycle", "shortestpath", "algorithm"]
+categories = ["algorithms", "data-structures", "network-programming", "simulation"]

@@ -26,3 +26,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-articulation-point"
 version = "0.1.0"
+description = "A Rust library providing efficient computation of articulation points in graphs, indispensable for network vulnerability analysis and related applications."
+keywords = ["articulationpoint", "graphalgorithms", "networkanalysis", "cutvertices", "dfs"]
+categories = ["algorithms", "data-structures", "science", "mathematics", "development-tools"]

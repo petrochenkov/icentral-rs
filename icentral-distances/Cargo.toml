@@ -13,3 +13,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-distances"
 version = "0.1.0"
+description = "Manage and manipulate distances within a graph or network context. Includes efficient distance storage and operations for pathfinding and graph traversal algorithms."
+keywords = ["distance", "graph", "network", "algorithm", "pathfinding"]
+categories = ["algorithms", "data-structures", "network-programming", "science", "simulation"]

@@ -11,3 +11,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-path-counts"
 version = "0.1.0"
+description = "A crate for managing path counts of nodes in graph-like structures, designed for efficient performance in computational graph analysis."
+keywords = ["path", "nodes", "graph", "algorithm", "compute"]
+categories = ["algorithms", "data-structures", "simulation", "science", "mathematics"]

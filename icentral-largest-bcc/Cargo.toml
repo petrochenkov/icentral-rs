@@ -26,3 +26,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-largest-bcc"
 version = "0.1.0"
+description = "A Rust crate for computing and analyzing the largest biconnected components in graphs, providing insights into node and edge distributions in terms of centrality metrics."
+keywords = ["biconnectedcomponent", "graphtheory", "centrality", "networkanalysis", "algorithms"]
+categories = ["algorithms", "data-structures", "network-programming", "science", "visualization"]

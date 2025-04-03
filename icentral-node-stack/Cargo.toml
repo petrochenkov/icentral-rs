@@ -10,3 +10,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-node-stack"
 version = "0.1.0"
+description = "icentral-node-stack is a Rust crate designed to facilitate stack-based operations on NodeId structures. It offers efficient node management with capabilities for accessing, modifying, and manipulating node stacks, enabling advanced data structure handling and simulation scenarios."
+keywords = ["node", "stack", "datastructure", "pushpop", "nodemanagement"]
+categories = ["data-structures", "algorithms", "development-tools", "parsing", "simulation"]

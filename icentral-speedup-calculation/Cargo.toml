@@ -43,3 +43,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-speedup-calculation"
 version = "0.1.0"
+description = "Rust library for efficient graph traversal and speedup calculations using Betweenness Centrality and MUC detection techniques."
+keywords = ["graph", "speedup", "betweenness", "minimumunioncycle", "optimization"]
+categories = ["algorithms", "science", "simulation"]

@@ -11,3 +11,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-pair-dependencies"
 version = "0.1.0"
+description = "icentral-pair-dependencies efficiently manages pair dependencies between nodes using a structured data model supporting fast access and updates."
+keywords = ["dependencies", "nodes", "algorithms", "pairing", "simulation"]
+categories = ["algorithms", "mathematics", "simulation", "science", "data-structures"]

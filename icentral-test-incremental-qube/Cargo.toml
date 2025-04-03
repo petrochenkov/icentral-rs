@@ -46,3 +46,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-test-incremental-qube"
 version = "0.1.0"
+description = "Rust crate offering efficient algorithms for incremental betweenness centrality computation in dynamic graph structures using MUCs."
+keywords = ["incremental", "betweenness", "centrality", "graph", "optimization"]
+categories = ["algorithms", "data-structures", "mathematics"]

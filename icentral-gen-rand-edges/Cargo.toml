@@ -26,3 +26,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-gen-rand-edges"
 version = "0.1.0"
+description = "A Rust crate for generating random edges within graphs, catering to simulation and network analysis by allowing edge creation that avoids existing connections and bridge edges. Compatible with Rust 2021 edition."
+keywords = ["graph", "random", "edges", "simulation", "network"]
+categories = ["algorithms", "science", "network-programming", "mathematics", "simulation"]

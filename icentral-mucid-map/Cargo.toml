@@ -19,3 +19,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-mucid-map"
 version = "0.1.0"
+description = "Maps between NodeId and MucId using a high-performance, extensible Rust data structure called MucIdMap. Ideal for optimized node-based applications."
+keywords = ["nodeid", "mucid", "mapping", "rust", "datastructure"]
+categories = ["algorithms", "data-structures", "network-programming", "mathematics", "parsing"]

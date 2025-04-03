@@ -11,3 +11,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-predecessor-map"
 version = "0.1.0"
+description = "Optimized Rust crate for implementing and managing a predecessor map, a staple in graph theory and algorithms, allowing efficient traversal and manipulation of node relationships within a graph."
+keywords = ["graph", "predecessor", "node", "traversal", "algorithm"]
+categories = ["algorithms", "data-structures", "mathematics", "science", "simulation"]

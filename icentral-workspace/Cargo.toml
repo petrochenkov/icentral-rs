@@ -50,3 +50,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-workspace"
 version = "0.1.0"
+description = "The icentral-workspace crate provides a comprehensive solution for managing data and updating calculations in iterative graph transformation processes with a focus on centrality metrics."
+keywords = ["graph", "centrality", "algorithms", "data", "workspace"]
+categories = ["algorithms", "data-structures", "science", "simulation", "mathematics"]

@@ -14,3 +14,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-mock"
 version = "0.1.0"
+description = "A Rust crate offering mock graph structures for quick testing and prototyping of graph-based algorithms and systems."
+keywords = ["graph", "mock", "testing", "prototype", "algorithms"]
+categories = ["development-tools", "simulation", "algorithms", "data-structures"]

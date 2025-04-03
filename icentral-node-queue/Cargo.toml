@@ -11,3 +11,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-node-queue"
 version = "0.1.0"
+description = "Efficient and dependable queue management for node identifiers, ideal for graph operations such as BFS."
+keywords = ["queue", "bfs", "node", "graph", "traversal"]
+categories = ["data-structures", "algorithms", "development-tools"]

@@ -16,3 +16,6 @@ renew-traits = "0.1.0"
 edition = "2021"
 name = "icentral-cycle"
 version = "0.1.0"
+description = "This crate provides tools to represent and compute the Minimum Cycle Basis of a graph, offering efficient access and manipulation of cycles for algorithmic and theoretical analysis."
+keywords = ["graphtheory", "cyclebasis", "minimumcycle", "algorithms", "rust"]
+categories = ["algorithms", "data-structures", "mathematics", "science"]
