@@ -1,6 +1,6 @@
 
 pub(crate) use icentral_conn_vertex_map::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_distances::*;
 pub(crate) use icentral_edge::*;
 pub(crate) use icentral_edges::*;

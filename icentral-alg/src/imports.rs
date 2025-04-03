@@ -3,7 +3,7 @@ pub(crate) use disable_macro::disable;
 pub(crate) use icentral_bbfs::*;
 pub(crate) use icentral_bcc::*;
 pub(crate) use icentral_component::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_distances::*;
 pub(crate) use icentral_edge::*;
 pub(crate) use icentral_edges::*;

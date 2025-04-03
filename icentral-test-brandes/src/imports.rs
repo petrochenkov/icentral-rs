@@ -1,6 +1,6 @@
 
 pub(crate) use icentral_brandes::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_errors::*;
 pub(crate) use icentral_graph::*;
 pub(crate) use icentral_graph_interface::*;

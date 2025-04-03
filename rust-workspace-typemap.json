@@ -1223,8 +1223,8 @@
       ],
       "types": []
     },
-    "icentral-deps": {
-      "crate_name": "icentral-deps",
+    "icentral-3p": {
+      "crate_name": "icentral-3p",
       "traits": [],
       "fns": [],
       "structs": [],

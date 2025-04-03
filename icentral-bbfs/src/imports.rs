@@ -1,6 +1,6 @@
 
 pub(crate) use icentral_component::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_edge::*;
 pub(crate) use icentral_errors::*;
 pub(crate) use icentral_mindexed_map::*;

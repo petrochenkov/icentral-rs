@@ -18,7 +18,7 @@ pub(crate) use icentral_count_bcc::*;
 pub(crate) use icentral_cycle::*;
 pub(crate) use icentral_delta::*;
 pub(crate) use icentral_deltas::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_distances::*;
 pub(crate) use icentral_edge::*;
 pub(crate) use icentral_edges::*;

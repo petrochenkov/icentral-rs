@@ -23,7 +23,7 @@ icentral-count-bcc
 icentral-cycle
 icentral-delta
 icentral-deltas
-icentral-deps
+icentral-3p
 icentral-distances
 icentral-edge
 icentral-edges

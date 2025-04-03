@@ -1,7 +1,7 @@
 
 pub(crate) use icentral_bbfs::*;
 pub(crate) use icentral_component::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_distances::*;
 pub(crate) use icentral_errors::*;
 pub(crate) use icentral_graph_interface::*;

@@ -1,6 +1,6 @@
 
 pub(crate) use icentral_articulation_point_map::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_edge::*;
 pub(crate) use icentral_edges::*;
 pub(crate) use icentral_errors::*;

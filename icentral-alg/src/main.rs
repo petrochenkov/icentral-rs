@@ -1,6 +1,6 @@
 use icentral_graph_hash::*;
 use icentral_alg::*;
-use icentral_deps::*;
+use icentral_3p::*;
 
 //-------------------------------------------[icentral/src/main.cc]
 

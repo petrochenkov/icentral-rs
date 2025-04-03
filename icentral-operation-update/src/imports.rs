@@ -2,7 +2,7 @@
 pub(crate) use icentral_alg::*;
 pub(crate) use icentral_bcc::*;
 pub(crate) use icentral_component::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_edge::*;
 pub(crate) use icentral_edges::*;
 pub(crate) use icentral_errors::*;

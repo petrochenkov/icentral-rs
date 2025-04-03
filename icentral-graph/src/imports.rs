@@ -7,7 +7,7 @@ pub(crate) use icentral_bridge_edges::*;
 pub(crate) use icentral_component::*;
 pub(crate) use icentral_cycle::*;
 pub(crate) use icentral_delta::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_distances::*;
 pub(crate) use icentral_edge::*;
 pub(crate) use icentral_edges::*;

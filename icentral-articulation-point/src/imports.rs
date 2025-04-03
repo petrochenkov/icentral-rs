@@ -1,6 +1,6 @@
 
 pub(crate) use icentral_color_map::*;
-pub(crate) use icentral_deps::*;
+pub(crate) use icentral_3p::*;
 pub(crate) use icentral_distances::*;
 pub(crate) use icentral_errors::*;
 pub(crate) use icentral_neighbors::*;

@@ -37,7 +37,7 @@ version = "1.0.128"
 env_logger = "0.11.5"
 [package]
 edition = "2021"
-name = "icentral-deps"
+name = "icentral-3p"
 version = "0.1.0"
 description = "A Rust crate for efficient management of external dependencies, enhancing integration and compatibility in complex software systems."
 keywords = ["dependencies", "integration", "compatibility", "scalable", "management"]
