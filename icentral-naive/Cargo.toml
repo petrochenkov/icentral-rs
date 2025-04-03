@@ -22,7 +22,11 @@ version = "0.1.0"
 [dependencies.icentral-scores]
 path = "../icentral-scores"
 version = "0.1.0"
+
 [package]
-edition = "2021"
-name = "icentral-naive"
-version = "0.1.0"
+edition     = "2021"
+name        = "icentral-naive"
+version     = "0.1.0"
+description = "naive implementation of betweenness centrality"
+keywords    = ["nodeid", "mucid", "mapping", "rust", "datastructure"]
+categories  = ["algorithms", "data-structures", "network-programming", "mathematics" ]

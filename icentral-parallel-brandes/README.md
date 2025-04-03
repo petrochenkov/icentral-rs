@@ -37,3 +37,7 @@ This crate is suited for applications in network analysis, where analyzing the b
 
 ## Further Reading
 Further understanding of the algorithm's theoretical background can be found in U. Brandes, "A Faster Algorithm for Betweenness Centrality," Journal of Mathematical Sociology, 2001.
+
+This crate is in the process of being translated from c++ to rust. Currently, it still needs exhaustive testing.  It is likely there currently exist many glitches which need to be fixed before proper usage. This crate is based on the original icentral program developed by Fuad Jamor. Please see the following repository for details: https://github.com/fjamour/icentral.
+
+For progress updates, see the workspacer rust project.

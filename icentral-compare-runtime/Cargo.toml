@@ -26,3 +26,6 @@ version = "0.1.0"
 edition = "2021"
 name = "icentral-compare-runtime"
 version = "0.1.0"
+description = "A Rust crate for comparing brandes runtimes"
+keywords = ["graph", "betweenness", "algorithm", "component", "centrality"]
+categories = ["algorithms", "data-structures", "science", "mathematics", "development-tools"]

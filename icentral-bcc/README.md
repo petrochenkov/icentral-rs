@@ -38,3 +38,7 @@ This project is licensed under the MIT License.
 ## Disclaimer
 
 This README.md content was algorithmically generated and may not fully represent the `icentral-bcc` crate. However, it provides an extensive overview for academic and practical exploration.
+
+This crate is in the process of being translated from c++ to rust. Currently, it still needs exhaustive testing.  It is likely there currently exist many glitches which need to be fixed before proper usage. This crate is based on the original icentral program developed by Fuad Jamor. Please see the following repository for details: https://github.com/fjamour/icentral.
+
+For progress updates, see the workspacer rust project.
