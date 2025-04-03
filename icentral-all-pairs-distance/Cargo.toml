@@ -12,6 +12,13 @@ path = "../icentral-nodeid"
 named-item = "0.1.0"
 renew-traits = "0.1.0"
 [package]
-edition = "2021"
 name = "icentral-all-pairs-distance"
 version = "0.1.0"
+authors = ["klebs tpk3.mx@gmail.com"]
+edition = "2021"
+description = "A Rust crate for managing and manipulating all-pairs distance data in large graphs."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/your-repo/icentral-all-pairs-distance"
+keywords = ["graph-algorithms", "all-pairs", "distance-map", "indexed", "mapped"]
+categories = ["algorithms", "graph", "data-structures"]
+

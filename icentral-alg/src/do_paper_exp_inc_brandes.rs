@@ -30,5 +30,3 @@ where GH: BccGraphHashInterface
 
     Ok(())
 }
-
-

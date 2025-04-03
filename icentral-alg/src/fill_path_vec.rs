@@ -25,5 +25,3 @@ pub fn fill_path_vec() -> Vec<String> {
 
     vec
 }
-
-

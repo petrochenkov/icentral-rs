@@ -1,6 +1,5 @@
 crate::ix!();
 
-
 pub struct Timer {
     start: RefCell<Instant>,
     stop:  RefCell<Option<Instant>>,
