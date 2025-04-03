@@ -1,0 +1,19 @@
+{
+  "crate_name": "icentral-bcc",
+  "full_readme_markdown": "# icentral-bcc\n\n`icentral-bcc` is a Rust crate designed for the efficient identification and management of biconnected components within graph structures. Leveraging advanced graph theory concepts and algorithms, this crate facilitates the extraction of biconnected subgraphs and edge-based component disaggregation, valuable for computations involving network robustness and structural analysis.\n\n## Overview\n\nGraphs are fundamental data structures used extensively in computational applications, from network communications to structural modeling. Biconnected components are maximal subgraphs where removing any single vertex will not disconnect the graph. This property is critical in assessing the resilience and connectivity of networks.\n\nThis crate introduces:\n\n- `BccGraphHashInterface`: A trait structuring the interaction with graph hash operations.\n- `FindBiconnectedComponent`: A trait providing functionality to discover biconnected components within a graph.\n- `FindEdgeBccSubgraph`: A trait enabling the identification of the biconnected component subgraph containing a specific edge.\n\n## Usage\n\nThe `BccDfsVisitorContext` structure manages the context of depth-first searches (DFS) necessary for computing biconnected components. Types implementing graph traits can utilize these methods to determine their biconnected structures. Integration into existing graph frameworks is streamlined, given trait-based extensibility.\n\nTo employ the core functionalities:\n\n```rust\nlet mut graph = YourGraphType::new();\nlet mut bccs: Vec<YourBccGraphHash> = vec![];\ngraph.find_bicon_component(&mut bccs);\n```\n\nImplement `BccGraphHashInterface` for your specific graph representation to integrate seamlessly with this crate.\n\n## Advanced Features\n\n- **DFS-based component analysis**: Uses advanced DFS strategies to identify subcomponents efficiently.\n- **Performance metrics**: Track performance statistics through `BiconnectedComponentsStat`, providing insight into the computational efficiency of the operations.\n\n## License\n\nThis project is licensed under the MIT License.\n\n## Disclaimer\n\nThis README.md content was algorithmically generated and may not fully represent the `icentral-bcc` crate. However, it provides an extensive overview for academic and practical exploration.",
+  "package_categories": [
+    "algorithms",
+    "data-structures",
+    "graph-theory",
+    "network-programming",
+    "science"
+  ],
+  "package_description": "A Rust crate for efficiently finding biconnected components and subgraphs in graphs, aiding in network analysis and structural graph evaluations.",
+  "package_keywords": [
+    "biconnected",
+    "graph",
+    "component",
+    "algorithm",
+    "network"
+  ]
+}
