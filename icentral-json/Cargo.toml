@@ -15,3 +15,4 @@ version = "0.1.0"
 description = "A Rust crate facilitating the creation and serialization of JSON structures with two-level named member hierarchies using macros."
 keywords = ["rust", "json", "serialization", "macros", "nestedstructures"]
 categories = ["data-structures", "parsing", "network-programming"]
+license     = "MIT OR Apache-2.0"

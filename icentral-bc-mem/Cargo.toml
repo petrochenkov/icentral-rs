@@ -26,3 +26,4 @@ version = "0.1.0"
 description = "icentral-bc-mem facilitates the creation and management of hierarchical memory workspaces using node-centric structures and map-based memory organization."
 keywords = ["memory", "hierarchical", "workspace", "node", "map"]
 categories = ["data-structures", "memory-management", "simulation"]
+license     = "MIT OR Apache-2.0"

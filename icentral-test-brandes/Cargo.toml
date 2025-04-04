@@ -29,3 +29,4 @@ version = "0.1.0"
 description = "icentral-test-brandes is a Rust library for computing betweenness centrality using Brandes' algorithm. It supports both bounded and unbounded iterations over graph structures efficiently, with precise timing."
 keywords = ["betweenness", "centrality", "brandes", "graph", "algorithm"]
 categories = ["algorithms", "network-programming", "science", "simulation", "mathematics"]
+license     = "MIT OR Apache-2.0"

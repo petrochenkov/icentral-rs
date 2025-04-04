@@ -20,3 +20,4 @@ version = "0.1.0"
 description = "A Rust crate for extracting bridge edges from graph structures using biconnected component analysis."
 keywords = ["bridgeedges", "graphtheory", "biconnectedcomponent", "networkanalysis", "rust"]
 categories = ["algorithms", "data-structures", "science", "network-programming", "development-tools"]
+license     = "MIT OR Apache-2.0"

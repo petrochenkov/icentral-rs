@@ -11,3 +11,4 @@ version = "0.1.0"
 description = "A versatile Rust crate for managing collections with dual functionalities: index-based and map-based data structures, supporting both dense and sparse implementations efficiently."
 keywords = ["indexed", "mapped", "collections", "datastructures", "rust"]
 categories = ["data-structures", "algorithms", "parsing", "asynchronous", "finance"]
+license     = "MIT OR Apache-2.0"

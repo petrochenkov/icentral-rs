@@ -14,3 +14,4 @@ version = "0.1.0"
 description = "Efficient and dependable queue management for node identifiers, ideal for graph operations such as BFS."
 keywords = ["queue", "bfs", "node", "graph", "traversal"]
 categories = ["data-structures", "algorithms", "development-tools"]
+license     = "MIT OR Apache-2.0"

@@ -14,3 +14,4 @@ version = "0.1.0"
 description = "A crate for managing path counts of nodes in graph-like structures, designed for efficient performance in computational graph analysis."
 keywords = ["path", "nodes", "graph", "algorithm", "compute"]
 categories = ["algorithms", "data-structures", "simulation", "science", "mathematics"]
+license     = "MIT OR Apache-2.0"

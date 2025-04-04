@@ -232,10 +232,12 @@ version = "0.1.0"
 [dependencies.icentral-workspace-map]
 path = "../icentral-workspace-map"
 version = "0.1.0"
+
 [package]
-edition = "2021"
-name = "icentral"
-version = "0.1.0"
+edition     = "2021"
+name        = "icentral"
+version     = "0.1.0"
 description = "iCentral is a command-line interface development utility in Rust, providing argument parsing, subcommand management, dynamic flag implementation, and asynchronous operation support for efficient CLI application development."
-keywords = ["commandline", "cli", "argumentparsing", "asynchronous", "rust"]
-categories = ["command-line-utilities", "development-tools", "asynchronous", "parsing", "rust-patterns"]
+keywords    = ["commandline", "cli", "argumentparsing", "asynchronous", "rust"]
+categories  = ["command-line-utilities", "development-tools", "asynchronous", "parsing", "rust-patterns"]
+license     = "MIT OR Apache-2.0"

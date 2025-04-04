@@ -22,3 +22,4 @@ version = "0.1.0"
 description = "A comprehensive crate for node and edge operations within graph structures, offering efficient manipulation and management capabilities."
 keywords = ["graph", "node", "edge", "network", "neighbors"]
 categories = ["algorithms", "data-structures", "network-programming", "science", "simulation"]
+license     = "MIT OR Apache-2.0"

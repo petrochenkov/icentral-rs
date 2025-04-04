@@ -14,3 +14,4 @@ version = "0.1.0"
 description = "The icentral-conn-vertex-map crate provides a robust data structure for managing node-to-node connectivity in computational graphs, with both indexed and mapped modes."
 keywords = ["connectivity", "nodemapping", "graph", "datastructures", "indexing"]
 categories = ["data-structures", "memory-management", "science"]
+license     = "MIT OR Apache-2.0"

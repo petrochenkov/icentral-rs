@@ -20,3 +20,4 @@ version = "0.1.0"
 description = "Icetral-edge provides a utility for managing graph edges, enabling node connectivity and manipulation. This crate is exemplary for implementing robust graph data structures."
 keywords = ["graph", "edge", "connectivity", "nodes", "bidirectional"]
 categories = ["algorithms", "data-structures", "science", "mathematics", "api-bindings"]
+license     = "MIT OR Apache-2.0"

@@ -61,4 +61,5 @@ name = "icentral-muc"
 version = "0.1.0"
 description = "icentral-muc is a Rust crate for interacting with Minimum Union Cycles (MUCs) in graph data structures. It provides advanced traits and implementations for efficient MUC discovery, management, and analysis to aid in identifying connectivity and betweenness centrality in complex networks."
 keywords = ["graphtheory", "minimumunioncycles", "connectivity", "betweennesscentralit", "networkanalysis"]
+license     = "MIT OR Apache-2.0"
 categories = ["algorithms", "mathematics", "data-structures", "science", "network-programming"]

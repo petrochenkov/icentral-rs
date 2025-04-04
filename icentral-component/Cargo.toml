@@ -38,3 +38,4 @@ version = "0.1.0"
 description = "A Rust crate for component management and edge-based betweenness centrality in graphs."
 keywords = ["graph", "betweenness", "algorithm", "component", "centrality"]
 categories = ["algorithms", "data-structures", "science", "mathematics", "development-tools"]
+license     = "MIT OR Apache-2.0"

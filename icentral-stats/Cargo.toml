@@ -8,3 +8,4 @@ version = "0.1.0"
 description = "Provides statistical analysis utilities for performance metrics, including mean, median, and standard deviation computations on floating-point and duration datasets."
 keywords = ["statistics", "performance", "measurement", "analysis", "rust"]
 categories = ["development-tools", "mathematics", "science"]
+license     = "MIT OR Apache-2.0"

@@ -1,44 +1,50 @@
 [build-dependencies]
 scan-crate-for-typedefs = "0.6.0"
+
 [dependencies]
-export-magic = "0.3.6"
-dachshund = "0.1.10"
-tracing-log = "0.2.0"
+export-magic  = "0.3.6"
+dachshund     = "0.1.10"
+tracing-log   = "0.2.0"
 tracing-setup = "0.3.6"
-float-ord = "0.3.2"
-queue = "0.3.1"
-delegate = "0.10.0"
-nanorand = "0.7.0"
-error-tree = "0.3.6"
-text_io = "0.1.12"
-pbx = "0.1.0"
-lockfree = "0.5.1"
-paste = "1.0.15"
-rand = "0.8.5"
-num-integer = "0.1.46"
+float-ord     = "0.3.2"
+queue         = "0.3.1"
+delegate      = "0.10.0"
+nanorand      = "0.7.0"
+error-tree    = "0.3.6"
+text_io       = "0.1.12"
+pbx           = "0.1.0"
+lockfree      = "0.5.1"
+paste         = "1.0.15"
+rand          = "0.8.5"
+num-integer   = "0.1.46"
 
 [dependencies.tracing]
 default-features = false
 version = "0.1.40"
+
 [dependencies.tracing-subscriber]
 features = [ "env-filter", "json" ]
 version = "0.3.18"
+
 [dependencies.time]
 features = [ "macros", "serde", "serde-well-known" ]
 version = "0.3.14"
+
 [dependencies.serde]
 features = [ "rc" ]
 version = "1.0.210"
+
 [dependencies.serde_json]
 version = "1.0.128"
 
-
 [dev-dependencies]
 env_logger = "0.11.5"
+
 [package]
-edition = "2021"
-name = "icentral-3p"
-version = "0.1.0"
+edition     = "2021"
+name        = "icentral-3p"
+version     = "0.1.0"
 description = "A Rust crate for efficient management of external dependencies, enhancing integration and compatibility in complex software systems."
-keywords = ["dependencies", "integration", "compatibility", "scalable", "management"]
-categories = ["development-tools", "network-programming", "parsing"]
+keywords    = ["dependencies", "integration", "compatibility", "scalable", "management"]
+categories  = ["development-tools", "network-programming", "parsing"]
+license     = "MIT OR Apache-2.0"

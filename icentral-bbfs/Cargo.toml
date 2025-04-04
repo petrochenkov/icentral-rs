@@ -41,3 +41,4 @@ version = "0.1.0"
 description = "A Rust crate providing Bidirectional Breadth-First Search (BBFS) for efficient computation of betweenness centrality in large graph structures."
 keywords = ["bbfs", "betweennesscentralit", "graphalgorithms", "networkanalysis", "breadthfirstsearch"]
 categories = ["algorithms", "data-structures", "network-programming", "science", "mathematics"]
+license     = "MIT OR Apache-2.0"

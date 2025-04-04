@@ -16,4 +16,5 @@ name = "icentral-match"
 version = "0.1.0"
 description = "Provides constructs for graph-based computations and detailed analysis of betweenness centrality within undirected graphs."
 keywords = ["graphtheory", "betweennesscentralit", "networkanalysis", "dachshund", "graphalgorithms"]
+license     = "MIT OR Apache-2.0"
 categories = ["algorithms", "science", "simulation", "mathematics"]

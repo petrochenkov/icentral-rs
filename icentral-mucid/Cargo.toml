@@ -11,3 +11,4 @@ version = "0.1.0"
 description = "A Rust crate for managing Minimum Union Cycle IDs in graph nodes, providing easy-to-use traits and macros for interacting with node identifiers within complex graph structures."
 keywords = ["graphtheory", "minimumunioncycle", "identifiers", "rust", "efficient"]
 categories = ["algorithms", "data-structures", "mathematics", "parsing", "development-tools"]
+license     = "MIT OR Apache-2.0"

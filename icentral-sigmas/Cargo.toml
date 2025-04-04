@@ -14,3 +14,4 @@ version = "0.1.0"
 description = "A Rust library providing efficient management of sigma values for nodes in graph-based data structures. Includes traits for accessing and modifying sigma values, with a focus on performance and precision."
 keywords = ["sigma", "node", "graph", "rust", "efficiency"]
 categories = ["algorithms", "data-structures", "science", "simulation", "rust-patterns"]
+license     = "MIT OR Apache-2.0"

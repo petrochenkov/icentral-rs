@@ -29,3 +29,4 @@ version = "0.1.0"
 description = "A Rust library for detecting shared vertices in graph cycles, utilizing mathematical and algorithmic principles for network analysis and graph theory research."
 keywords = ["graphtheory", "cycledetection", "networkanalysis", "vertexsharing", "minimumunioncycle"]
 categories = ["algorithms", "mathematics", "science", "data-structures", "simulation"]
+license     = "MIT OR Apache-2.0"

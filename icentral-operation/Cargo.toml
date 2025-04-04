@@ -8,3 +8,4 @@ version = "0.1.0"
 description = "A Rust crate that defines an enum for basic operations including insertion and deletion, with essential utilities for operation management."
 keywords = ["operation", "insertion", "deletion", "enum", "utilities"]
 categories = ["algorithms", "data-structures", "text-processing", "filesystem", "command-line-utilities"]
+license     = "MIT OR Apache-2.0"

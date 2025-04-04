@@ -20,3 +20,4 @@ version = "0.1.0"
 description = "Rust crate for computing and managing betweenness centrality scores in network graphs via efficient algorithms and data structures."
 keywords = ["rust", "betweennesscentralit", "graphalgorithms", "networkanalysis", "datastructures"]
 categories = ["algorithms", "data-structures", "mathematics", "simulation"]
+license     = "MIT OR Apache-2.0"

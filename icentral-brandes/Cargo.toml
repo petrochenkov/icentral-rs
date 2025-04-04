@@ -59,3 +59,4 @@ version = "0.1.0"
 description = "Efficient Rust implementation of the Brandes algorithm for computing betweenness centrality in complex graph structures. Includes support for incremental updates and employs multi-threading for enhanced performance."
 keywords = ["brandes", "betweennesscentralit", "graphalgorithm", "incremental", "parallelcomputation"]
 categories = ["algorithms", "data-structures", "science", "simulation", "mathematics"]
+license     = "MIT OR Apache-2.0"

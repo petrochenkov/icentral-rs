@@ -47,3 +47,4 @@ version = "0.1.0"
 description = "Efficiently updates betweenness centrality scores in graphs. Supports edge operations on connected and biconnected components with multithreaded capabilities."
 keywords = ["betweenness", "centrality", "graph", "biconnected", "dynamicupdate"]
 categories = ["algorithms", "data-structures", "science", "simulation", "mathematics"]
+license     = "MIT OR Apache-2.0"

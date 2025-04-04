@@ -29,3 +29,4 @@ version = "0.1.0"
 description = "A Rust crate for managing workspaces in a graph structure, utilizing a MaybeIndexedMap for efficient node-to-workspace mapping. Features search algorithms for graph traversal."
 keywords = ["graph", "workspace", "map", "bfs", "sim"]
 categories = ["data-structures", "algorithms", "science", "simulation"]
+license     = "MIT OR Apache-2.0"

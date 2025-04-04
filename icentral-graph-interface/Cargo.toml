@@ -38,3 +38,4 @@ version = "0.1.0"
 description = "A Rust crate providing traits for graph manipulation, focusing on minimum union cycles, betweenness centrality, and efficient shortest path calculations."
 keywords = ["graph", "betweennesscentralit", "minimumunioncycle", "shortestpath", "algorithm"]
 categories = ["algorithms", "data-structures", "network-programming", "simulation"]
+license     = "MIT OR Apache-2.0"

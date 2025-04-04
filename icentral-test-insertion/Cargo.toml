@@ -71,3 +71,4 @@ version = "0.1.0"
 description = "Efficiently insert edges into graphs to evaluate betweenness centrality using advanced hash methodologies."
 keywords = ["graph", "centrality", "edgeinsertion", "performance", "benchmark"]
 categories = ["algorithms", "science", "simulation", "data-structures"]
+license     = "MIT OR Apache-2.0"

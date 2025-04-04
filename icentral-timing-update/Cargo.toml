@@ -60,4 +60,5 @@ name = "icentral-timing-update"
 version = "0.1.0"
 description = "A crate for dynamically updating betweenness centrality in graphs, supporting MPI and multithreading for efficient large-scale graph computations."
 keywords = ["betweenness", "graph", "mpi", "parallel", "update"]
+license     = "MIT OR Apache-2.0"
 categories = ["algorithms", "simulation", "network-programming", "asynchronous", "science"]

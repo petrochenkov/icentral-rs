@@ -29,3 +29,4 @@ version = "0.1.0"
 description = "Efficient parallel computation of betweenness centrality using Brandes' algorithm in large graphs, leveraging Rust's concurrency model."
 keywords = ["brandes", "parallel", "betweenness", "centrality", "graph"]
 categories = ["algorithms", "concurrency", "mathematics", "network-programming", "simulation"]
+license     = "MIT OR Apache-2.0"

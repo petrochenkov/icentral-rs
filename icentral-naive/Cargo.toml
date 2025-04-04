@@ -30,3 +30,4 @@ version     = "0.1.0"
 description = "naive implementation of betweenness centrality"
 keywords    = ["nodeid", "mucid", "mapping", "rust", "datastructure"]
 categories  = ["algorithms", "data-structures", "network-programming", "mathematics" ]
+license     = "MIT OR Apache-2.0"

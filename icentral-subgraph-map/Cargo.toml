@@ -14,3 +14,4 @@ version = "0.1.0"
 description = "Facilitates efficient subgraph map management within large-scale graph structures, focusing on concurrency and safe data handling using Rust's memory sharing utilities."
 keywords = ["subgraph", "graphstructure", "concurrency", "network", "rust"]
 categories = ["data-structures", "concurrency", "network-programming", "memory-management"]
+license     = "MIT OR Apache-2.0"

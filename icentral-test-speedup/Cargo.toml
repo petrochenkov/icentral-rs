@@ -37,3 +37,4 @@ version = "0.1.0"
 description = "Provides methods for estimating graph algorithm speedups without assuming edges belong to the same biconnected component. Useful for performance analysis."
 keywords = ["graph", "biconnected", "performance", "algorithm", "speedup"]
 categories = ["algorithms", "mathematics", "science"]
+license     = "MIT OR Apache-2.0"

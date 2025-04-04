@@ -8,3 +8,4 @@ version = "0.1.0"
 description = "The `icentral-test-rustworkx` crate provides advanced functionality for graph processing and analysis, leveraging Rust's concurrency and safety features."
 keywords = ["graphprocessing", "networkanalysis", "rust", "optimization", "datastructures"]
 categories = ["algorithms", "data-structures", "science", "simulation", "visualization"]
+license     = "MIT OR Apache-2.0"

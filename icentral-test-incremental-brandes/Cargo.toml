@@ -47,3 +47,4 @@ version = "0.1.0"
 description = "Efficiently computes betweenness centrality in dynamic graphs using incremental updates. It accelerates centrality measurements by reducing recomputation overhead as edge modifications are introduced in graphs."
 keywords = ["graph", "centrality", "dynamic", "incremental", "network"]
 categories = ["algorithms", "network-programming", "mathematics", "data-structures", "science"]
+license     = "MIT OR Apache-2.0"

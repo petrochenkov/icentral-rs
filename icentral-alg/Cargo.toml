@@ -1,13 +1,13 @@
 [package]
-name = "icentral-alg"
-version = "0.1.0"
-authors = ["klebs tpk3.mx@gmail.com"]
-edition = "2021"
+name        = "icentral-alg"
+version     = "0.1.0"
+authors     = ["klebs tpk3.mx@gmail.com"]
+edition     = "2021"
 description = "A Rust crate for incremental and parallel betweenness centrality algorithms."
-license = "MIT OR Apache-2.0"
-repository = "https://github.com/your-repo/icentral-alg"
-keywords = ["betweenness-centrality", "graph-algorithms", "parallel", "incremental"]
-categories = ["algorithms", "graph", "parallel"]
+license     = "MIT OR Apache-2.0"
+repository  = "https://github.com/your-repo/icentral-alg"
+keywords    = ["betweenness-centrality", "graph-algorithms", "parallel", "incremental"]
+categories  = ["algorithms", "graph", "parallel"]
 
 [dependencies]
 disable_macro = "0.3.6"

@@ -58,3 +58,4 @@ version = "0.1.0"
 description = "Dynamic graph optimization for rapid update of betweenness centrality using Minimum Union Cycles."
 keywords = ["graphalgorithms", "dynamicgraphs", "betweennesscentralit", "optimization", "minimumunioncycles"]
 categories = ["algorithms", "computer-vision", "data-structures", "mathematics", "science"]
+license     = "MIT OR Apache-2.0"

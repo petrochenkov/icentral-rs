@@ -8,3 +8,4 @@ version = "0.1.0"
 description = "Provides foundational utilities for basic testing within the iCentral framework in Rust 2021 edition."
 keywords = ["icentral", "testing", "rust", "utilities", "framework"]
 categories = ["development-tools"]
+license     = "MIT OR Apache-2.0"

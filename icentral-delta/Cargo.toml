@@ -62,3 +62,4 @@ version = "0.1.0"
 description = "Efficient computation and maintenance of biconnected components in dynamic graph structures using delta-based methods."
 keywords = ["biconnected", "betweenness", "centrality", "delta", "graph"]
 categories = ["algorithms", "network-programming", "simulation", "science", "data-structures"]
+license     = "MIT OR Apache-2.0"

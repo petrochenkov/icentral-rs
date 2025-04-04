@@ -14,3 +14,4 @@ version = "0.1.0"
 description = "icentral-pair-dependencies efficiently manages pair dependencies between nodes using a structured data model supporting fast access and updates."
 keywords = ["dependencies", "nodes", "algorithms", "pairing", "simulation"]
 categories = ["algorithms", "mathematics", "simulation", "science", "data-structures"]
+license     = "MIT OR Apache-2.0"

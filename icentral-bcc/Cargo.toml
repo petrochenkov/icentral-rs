@@ -35,3 +35,4 @@ version = "0.1.0"
 description = "A Rust crate for efficiently finding biconnected components and subgraphs in graphs, aiding in network analysis and structural graph evaluations."
 keywords = ["biconnected", "graph", "component", "algorithm", "network"]
 categories = ["algorithms", "data-structures", "network-programming", "science"]
+license     = "MIT OR Apache-2.0"

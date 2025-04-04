@@ -26,3 +26,4 @@ version = "0.1.0"
 description = "A Rust crate for calculating and updating betweenness centrality scores in graphs using Recursive Breit-First Search strategies, optimized for dynamic and static networks."
 keywords = ["betweenness", "centrality", "graph", "rbfs", "biconnected"]
 categories = ["network-programming", "algorithms", "science", "mathematics", "data-structures"]
+license     = "MIT OR Apache-2.0"

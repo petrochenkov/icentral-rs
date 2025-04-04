@@ -14,3 +14,4 @@ version = "0.1.0"
 description = "A robust Rust crate for managing color maps associated with nodes in graphs or similar data structures, supporting dynamic manipulation and query of node color state."
 keywords = ["color", "map", "nodes", "graphs", "attributes"]
 categories = ["algorithms", "data-structures", "development-tools"]
+license     = "MIT OR Apache-2.0"
