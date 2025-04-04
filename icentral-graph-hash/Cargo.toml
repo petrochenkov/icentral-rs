@@ -69,6 +69,6 @@ edition = "2021"
 name = "icentral-graph-hash"
 version = "0.1.0"
 description = "Efficient manipulation and analysis of weighted graphs using advanced graph theory techniques, including betweenness centrality and connected components."
-keywords = ["graph", "algorithm", "betweennesscentralit", "graphtheory", "datastructures"]
+keywords = ["graph", "algorithm", "graphtheory", "datastructures"]
 categories = ["data-structures", "algorithms", "network-programming", "mathematics", "science"]
 license     = "MIT OR Apache-2.0"

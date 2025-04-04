@@ -45,6 +45,6 @@ edition = "2021"
 name = "icentral-scratch"
 version = "0.1.0"
 description = "Graph-theoretic crate for finding biconnected components and calculating betweenness centrality optimized by identifying articulation points."
-keywords = ["biconnectedcomponent", "graphtheory", "betweennesscentralit", "algorithms", "articulationpoints"]
+keywords = [ "graphtheory", "algorithms", "articulationpoints"]
 license     = "MIT OR Apache-2.0"
 categories = ["algorithms", "data-structures", "science", "mathematics", "simulation"]

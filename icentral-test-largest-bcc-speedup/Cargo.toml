@@ -30,6 +30,6 @@ edition = "2021"
 name = "icentral-test-largest-bcc-speedup"
 version = "0.1.0"
 description = "A Rust crate that estimates computational speedups by focusing on operations within the largest biconnected component of a graph, using advanced statistical analysis techniques."
-keywords = ["graph", "biconnectedcomponent", "speedup", "analysis", "performance"]
+keywords = ["graph", "speedup", "analysis", "performance"]
 categories = ["algorithms", "data-structures", "science"]
 license     = "MIT OR Apache-2.0"

@@ -6,6 +6,6 @@ edition = "2021"
 name = "icentral-test-fast-brandes"
 version = "0.1.0"
 description = "Highly optimized Brandes algorithm for computing betweenness centrality in network graphs."
-keywords = ["brandesalgorithm", "betweennesscentralit", "networkanalysis", "graphtheory", "optimization"]
+keywords = ["brandesalgorithm", "networkanalysis", "graphtheory", "optimization"]
 categories = ["algorithms", "science", "mathematics", "network-programming", "visualization"]
 license     = "MIT OR Apache-2.0"

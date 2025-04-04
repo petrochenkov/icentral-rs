@@ -25,5 +25,5 @@ description = "A Rust crate for managing and manipulating all-pairs distance dat
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/your-repo/icentral-all-pairs-distance"
 keywords = ["graph-algorithms", "all-pairs", "distance-map", "indexed", "mapped"]
-categories = ["algorithms", "graph", "data-structures"]
+categories = ["algorithms", "data-structures"]
 
