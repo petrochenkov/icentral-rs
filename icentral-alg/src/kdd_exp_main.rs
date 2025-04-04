@@ -1,5 +1,6 @@
 crate::ix!();
 
+#[cfg(target_feature="mpi")]
 pub fn kdd_exp_main<GH>(
     rank:  i32,
     size:  i32,

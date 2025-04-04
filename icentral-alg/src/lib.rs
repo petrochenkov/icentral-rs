@@ -1,5 +1,6 @@
 #[macro_use] pub mod imports; use imports::*;
 
+#[cfg(target_feature = "mpi")]
 pub use mpi::{
     ffi::{MPI_Status,MPI_Send,RSMPI_UINT8_T,RSMPI_COMM_WORLD,MPI_ANY_TAG},
     traits::{Destination,Communicator},

@@ -12,8 +12,11 @@ categories = ["algorithms", "graph", "parallel"]
 [dependencies]
 disable_macro = "0.3.6"
 libc = "0.2"
-mpi = "0.8.0"
 renew-traits = "0.1.0"
+
+[target.'cfg(target_feature = "mpi")'.dependencies.mpi]
+version = "0.8.0"
+
 [dependencies.icentral-3p]
 path = "../icentral-3p"
 version = "0.1.0"

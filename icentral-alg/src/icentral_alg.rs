@@ -160,7 +160,6 @@ pub fn icentral(
     Ok(())
 }
 
-#[disable]
 fn icentral_parallel(
     num_threads:          usize,
     delta_bc_of_vertices: &mut BetweennessScores,
